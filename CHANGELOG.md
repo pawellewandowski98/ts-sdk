@@ -12,7 +12,7 @@ All notable changes to this project will be documented in this file. The format 
 ## [Unreleased]
 
 ### Added
-- PR Template Test
+- PR Template Test 2
 
 ### Changed
 - (Detail modifications that are non-breaking but relevant to the end-users.)
